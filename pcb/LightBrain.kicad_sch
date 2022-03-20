@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "LightBrain Chematic")
+    (title "LightBrain Schematic")
     (date "2022-03-19")
     (rev "2.2")
     (company "LightBrains")
